@@ -1,0 +1,15 @@
+html.main{
+    background-image: url(./img/statue-vaporwave.gif);
+}
+a.main{
+    color: plum;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 60px;
+}
+.title.main{
+    background-color: hotpink ;
+    color: gold;
+    text-align: center;
+    font-size: 60px;
+}
